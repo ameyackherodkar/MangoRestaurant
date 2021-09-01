@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SWehZS7W3p7fs4ReoTDs9BQpOYLB3EjWIgG3Yq6Vh4e8Av/yxKVTOEdadYMU32bbmjKQPOTLvzOfu4OGvbwETA==",
+  "dgSpecHash": "Hf2OY/G/5ehfnP1WwWOIRvbzakJVlHXLlqAHHU40vxY6AzLR5uBW8bh/0lubcVftcojiUe4zda2/ma8bi3lOAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\akherodkar\\source\\repos\\AK-Exp\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\akherodkar\\.nuget\\packages\\microsoft.codeanalysis.razor\\5.0.9\\microsoft.codeanalysis.razor.5.0.9.nupkg.sha512",
     "C:\\Users\\akherodkar\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
     "C:\\Users\\akherodkar\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\akherodkar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\akherodkar\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\akherodkar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\akherodkar\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",

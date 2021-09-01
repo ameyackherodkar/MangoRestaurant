@@ -33,11 +33,15 @@ namespace Mango.Services.ProductAPI
             services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-
+            //Using dependency injection added mapper class for conversion of product dto  to product and vice versa
             IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
             services.AddSingleton(mapper);
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+            //Using Dependency Injection Registered IProductRepository class and interface
             services.AddScoped<IProductRepository,ProductRepository>();
+
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
